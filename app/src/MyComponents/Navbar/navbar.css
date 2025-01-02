@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #0e0d0d;
+}
+
+.navbar-heading{
+    color: white;
+    font-size: 27px;
+    text-decoration: none;
+}
+
+.navbar-toggler-icon{
+    margin-left: 10px;
+    width: 27px !important;
+    margin-right: 5px;
+}
