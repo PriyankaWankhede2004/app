@@ -28,11 +28,11 @@ This web application is a task management tool built using React.js. It allows u
 
 1. *Clone the repository:*
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/PriyankaWankhede2004/app.git
 
  * Install dependencies:
    cd app
-npm install
+   npm install
 
  * Start the development server:
    npm start
