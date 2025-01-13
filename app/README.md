@@ -4,25 +4,26 @@ This web application is a task management tool built using React.js. It allows u
 
 ## Features
 
-* Login:* Secure login page to authenticate users.
+* Login:* login page.
 * Dashboard:* Displays key statistics:
     - Total Tasks
     - Pending Tasks
     - Completed Tasks
     - Expired Tasks
-* Task Manager:*
-    - Add tasks with name, description, and due date.
+* Task Manager:* 
+    - Add tasks with name, description, due date and creation date.
+    - Task list with indicating current status.
     - Edit existing tasks.
-    - Delete tasks (with option to view in Trash).
+    - Delete tasks.
     - Mark tasks as completed with visual indication.
-* Trash:* View and potentially restore deleted tasks.
+* Trash:* View, permenantly deleted and potentially restore deleted tasks.
 * Settings:*
-    - Choose from 4 different fonts.
-    - Toggle dark mode.
+    - Choose from different fonts.
+    - Toggle dark mode and light mode.
 * Profile:*
     - View user profile information.
     - Update profile details.
-    - Delete user account.
+    - Delete profile.
 
 ## Getting Started
 
@@ -45,5 +46,3 @@ Built With
  * JavaScript
  * CSS
  * HTML
-
-
